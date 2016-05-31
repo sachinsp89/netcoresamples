@@ -1,0 +1,2 @@
+# netcoresamples
+testing the netcore
